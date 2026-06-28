@@ -3,8 +3,8 @@
 # Overview
 This project is a real-time AI-based crowd monitoring system developed using YOLOv8, OpenCV, and Python. The system captures live webcam footage, detects people in real time, estimates crowd density, and predicts crowd status such as:
 
-Nil Crowd
-Normal Crowd
+Nil Crowd,
+Normal Crowd,
 High Crowd
 
 The project is designed as an intelligent crowd monitoring solution for places like:
