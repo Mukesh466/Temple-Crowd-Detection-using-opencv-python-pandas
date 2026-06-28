@@ -9,7 +9,7 @@ High Crowd
 
 The project is designed as an intelligent crowd monitoring solution for places like:
 
-   > Temples
+> Temples
 
    > Public gatherings
 
