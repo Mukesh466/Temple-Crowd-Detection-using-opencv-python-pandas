@@ -9,36 +9,32 @@ High Crowd
 
 The project is designed as an intelligent crowd monitoring solution for places like:
 
--> Temples
+   -> Temples
 
-   > Public gatherings
+   -> Public gatherings
 
-   > Festivals
+   -> Festivals
 
-   > Events
+   -> Events
 
-   > Queue management systems
+   -> Queue management systems
 
 The system also stores crowd statistics in an Excel as a csv log file for future analysis.
 
 # Features
 
-  > Real-time webcam crowd detection
+  -> Real-time crowd detection
 
-  > YOLOv8 person detection
+  -> Live people counting
 
-  > Live people counting
+  -> Crowd density prediction
 
-  > Crowd density prediction
+  -> Automatic crowd status classification
 
-  > Automatic crowd status classification
+  -> Excel report generation
 
-Excel report generation
-
-OpenCV live visualization
-
-Google Colab webcam integration
-
+  -> OpenCV live visualization
+  
 # Technologies Used:
 <img width="395" height="245" alt="image" src="https://github.com/user-attachments/assets/849e4e01-29d8-422d-a2de-7c8b1c118de5" />
 
