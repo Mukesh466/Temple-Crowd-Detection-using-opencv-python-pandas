@@ -9,28 +9,29 @@ High Crowd
 
 The project is designed as an intelligent crowd monitoring solution for places like:
 
-    Temples
+   > Temples
 
-Public gatherings
+   > Public gatherings
 
-Festivals
+   > Festivals
 
-Events
+   > Events
 
-Queue management systems
+   > Queue management systems
 
-The system also stores crowd statistics in an Excel log file for future analysis.
+The system also stores crowd statistics in an Excel as a csv log file for future analysis.
 
 # Features
-Real-time webcam crowd detection
 
-YOLOv8 person detection
+  > Real-time webcam crowd detection
 
-Live people counting
+  > YOLOv8 person detection
 
-Crowd density prediction
+  > Live people counting
 
-Automatic crowd status classification
+  > Crowd density prediction
+
+  > Automatic crowd status classification
 
 Excel report generation
 
